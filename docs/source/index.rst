@@ -6,9 +6,12 @@
 Welcome to Example's documentation!
 ===================================
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+Contents:
 
-   some-feature.md
-   another-feature.md
+.. toctree::   
+   :maxdepth: 2
+
+   feat1.md
+   feat2.md 
+
+   
